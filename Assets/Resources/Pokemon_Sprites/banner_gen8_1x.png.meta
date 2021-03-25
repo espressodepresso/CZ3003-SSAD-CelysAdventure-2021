@@ -1,0 +1,2360 @@
+fileFormatVersion: 2
+guid: 1152053b951c142169a0cce0ffd28d24
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3160094951546079829
+    second: banner_gen8_1x_0
+  - first:
+      213: 3311515598643108024
+    second: banner_gen8_1x_1
+  - first:
+      213: 8821468796088392338
+    second: banner_gen8_1x_2
+  - first:
+      213: 5210262866586717958
+    second: banner_gen8_1x_3
+  - first:
+      213: 2735862290458765505
+    second: banner_gen8_1x_4
+  - first:
+      213: -1157966068241959432
+    second: banner_gen8_1x_5
+  - first:
+      213: -5495491898620391052
+    second: banner_gen8_1x_6
+  - first:
+      213: 1140141544423730502
+    second: banner_gen8_1x_7
+  - first:
+      213: 1830215924496228543
+    second: banner_gen8_1x_8
+  - first:
+      213: -7091806869081983317
+    second: banner_gen8_1x_9
+  - first:
+      213: -8093108737685132558
+    second: banner_gen8_1x_10
+  - first:
+      213: 2807911050829207924
+    second: banner_gen8_1x_11
+  - first:
+      213: -1317471172553741557
+    second: banner_gen8_1x_12
+  - first:
+      213: -3597663194673285352
+    second: banner_gen8_1x_13
+  - first:
+      213: -850899555738741498
+    second: banner_gen8_1x_14
+  - first:
+      213: -1286002461581451914
+    second: banner_gen8_1x_15
+  - first:
+      213: -2545627788252340189
+    second: banner_gen8_1x_16
+  - first:
+      213: -8665410200679287005
+    second: banner_gen8_1x_17
+  - first:
+      213: 5846122765113293701
+    second: banner_gen8_1x_18
+  - first:
+      213: -8538900873903464846
+    second: banner_gen8_1x_19
+  - first:
+      213: 1929204076341011512
+    second: banner_gen8_1x_20
+  - first:
+      213: -2053379393498737833
+    second: banner_gen8_1x_21
+  - first:
+      213: -5478001917786289203
+    second: banner_gen8_1x_22
+  - first:
+      213: 8500295831572413579
+    second: banner_gen8_1x_23
+  - first:
+      213: 1661924307017755800
+    second: banner_gen8_1x_24
+  - first:
+      213: 42631223113130864
+    second: banner_gen8_1x_25
+  - first:
+      213: -5027111758994898309
+    second: banner_gen8_1x_26
+  - first:
+      213: -3270088557743573652
+    second: banner_gen8_1x_27
+  - first:
+      213: 3179396217775964522
+    second: banner_gen8_1x_28
+  - first:
+      213: 4231045642093285550
+    second: banner_gen8_1x_29
+  - first:
+      213: -523578262680696200
+    second: banner_gen8_1x_30
+  - first:
+      213: 328056864048571299
+    second: banner_gen8_1x_31
+  - first:
+      213: -1208882035702466308
+    second: banner_gen8_1x_32
+  - first:
+      213: -8562924109666140146
+    second: banner_gen8_1x_33
+  - first:
+      213: 9077576168689724837
+    second: banner_gen8_1x_34
+  - first:
+      213: 6083101963654281055
+    second: banner_gen8_1x_35
+  - first:
+      213: 7297104967817613706
+    second: banner_gen8_1x_36
+  - first:
+      213: 590024012249879767
+    second: banner_gen8_1x_37
+  - first:
+      213: 5776700555062621868
+    second: banner_gen8_1x_38
+  - first:
+      213: 6077429617619504863
+    second: banner_gen8_1x_39
+  - first:
+      213: -7372678264404732026
+    second: banner_gen8_1x_40
+  - first:
+      213: 895699844442484793
+    second: banner_gen8_1x_41
+  - first:
+      213: -7177495971816303346
+    second: banner_gen8_1x_42
+  - first:
+      213: -544408340421341542
+    second: banner_gen8_1x_43
+  - first:
+      213: 6100786699137458266
+    second: banner_gen8_1x_44
+  - first:
+      213: -3261288793609232023
+    second: banner_gen8_1x_45
+  - first:
+      213: 6932135119795135695
+    second: banner_gen8_1x_46
+  - first:
+      213: 7947065991498052537
+    second: banner_gen8_1x_47
+  - first:
+      213: 496909627145682460
+    second: banner_gen8_1x_48
+  - first:
+      213: 164463865069297173
+    second: banner_gen8_1x_49
+  - first:
+      213: -132518507547284893
+    second: banner_gen8_1x_50
+  - first:
+      213: -7603024023761182999
+    second: banner_gen8_1x_51
+  - first:
+      213: 6006611618978614423
+    second: banner_gen8_1x_52
+  - first:
+      213: 7490275238810343775
+    second: banner_gen8_1x_53
+  - first:
+      213: -1040724230925200546
+    second: banner_gen8_1x_54
+  - first:
+      213: 2952803880717047192
+    second: banner_gen8_1x_55
+  - first:
+      213: -5492413222278548843
+    second: banner_gen8_1x_56
+  - first:
+      213: -2736084675677892283
+    second: banner_gen8_1x_57
+  - first:
+      213: 5400338423757604088
+    second: banner_gen8_1x_58
+  - first:
+      213: -4356751665175800638
+    second: banner_gen8_1x_59
+  - first:
+      213: -2929559680165620130
+    second: banner_gen8_1x_60
+  - first:
+      213: -5583741507760669411
+    second: banner_gen8_1x_61
+  - first:
+      213: 2180472180461282402
+    second: banner_gen8_1x_62
+  - first:
+      213: 7876287410069766339
+    second: banner_gen8_1x_63
+  - first:
+      213: -7280290222035674129
+    second: banner_gen8_1x_64
+  - first:
+      213: 9163670302549850031
+    second: banner_gen8_1x_65
+  - first:
+      213: -2060726881624535084
+    second: banner_gen8_1x_66
+  - first:
+      213: -7763648970711739986
+    second: banner_gen8_1x_67
+  - first:
+      213: -8972506704326770388
+    second: banner_gen8_1x_68
+  - first:
+      213: -6238731106110262641
+    second: banner_gen8_1x_69
+  - first:
+      213: -9141138013665114171
+    second: banner_gen8_1x_70
+  - first:
+      213: -878405131085238418
+    second: banner_gen8_1x_71
+  - first:
+      213: 2028248509358051232
+    second: banner_gen8_1x_72
+  - first:
+      213: 6875623011760270315
+    second: banner_gen8_1x_73
+  - first:
+      213: 9067021348935986511
+    second: banner_gen8_1x_74
+  - first:
+      213: 8300699082254827348
+    second: banner_gen8_1x_75
+  - first:
+      213: 7232143202694196890
+    second: banner_gen8_1x_76
+  - first:
+      213: 3161689420176046337
+    second: banner_gen8_1x_77
+  - first:
+      213: 8659847102725729902
+    second: banner_gen8_1x_78
+  - first:
+      213: -8462996339364980934
+    second: banner_gen8_1x_79
+  - first:
+      213: 6612304559968480700
+    second: banner_gen8_1x_80
+  - first:
+      213: 1271212902210467899
+    second: banner_gen8_1x_81
+  - first:
+      213: 3640671103018930868
+    second: banner_gen8_1x_82
+  - first:
+      213: -8197156135462177189
+    second: banner_gen8_1x_83
+  - first:
+      213: 6763112558886764778
+    second: banner_gen8_1x_84
+  - first:
+      213: -8315751958463384092
+    second: banner_gen8_1x_85
+  - first:
+      213: -8173226940019266379
+    second: banner_gen8_1x_86
+  - first:
+      213: 1961062235193729615
+    second: banner_gen8_1x_87
+  - first:
+      213: -5904788436552118125
+    second: banner_gen8_1x_88
+  - first:
+      213: 2146741801672123443
+    second: banner_gen8_1x_89
+  - first:
+      213: -957803611180051379
+    second: banner_gen8_1x_90
+  - first:
+      213: 8245738960323230066
+    second: banner_gen8_1x_91
+  - first:
+      213: -5968378823916836742
+    second: banner_gen8_1x_92
+  - first:
+      213: 3963798214295323323
+    second: banner_gen8_1x_93
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: banner_gen8_1x_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 212
+        width: 86
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba5379c62661524d0800000000000000
+      internalID: -3160094951546079829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banner_gen8_1x_1
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 213
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b8994d44edd4fd20800000000000000
+      internalID: 3311515598643108024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banner_gen8_1x_2
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 216
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29a9a04c1272c6a70800000000000000
+      internalID: 8821468796088392338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banner_gen8_1x_3
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 213
+        width: 52
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60f4f45d8729e4840800000000000000
+      internalID: 5210262866586717958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banner_gen8_1x_4
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 212
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c86e29024cb7f520800000000000000
+      internalID: 2735862290458765505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banner_gen8_1x_5
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 213
+        width: 46
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f57b700ff31eefe0800000000000000
+      internalID: -1157966068241959432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banner_gen8_1x_6
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 213
+        width: 38
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 471d1bc0c371cb3b0800000000000000
+      internalID: -5495491898620391052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banner_gen8_1x_7
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 212
+        width: 37
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64daa05a1b892df00800000000000000
+      internalID: 1140141544423730502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banner_gen8_1x_8
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 212
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb06cd9bfab366910800000000000000
+      internalID: 1830215924496228543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banner_gen8_1x_9
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 215
+        width: 39
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba671b00a37d49d90800000000000000
+      internalID: -7091806869081983317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banner_gen8_1x_10
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 215
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2faeaa17b708faf80800000000000000
+      internalID: -8093108737685132558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banner_gen8_1x_11
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 214
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47991994934b7f620800000000000000
+      internalID: 2807911050829207924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banner_gen8_1x_12
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 215
+        width: 47
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0bed16e2f667bde0800000000000000
+      internalID: -1317471172553741557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banner_gen8_1x_13
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 215
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 817700cb268821ec0800000000000000
+      internalID: -3597663194673285352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banner_gen8_1x_14
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 212
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60597a0cc5ff034f0800000000000000
+      internalID: -850899555738741498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banner_gen8_1x_15
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 172
+        width: 86
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67dd8212393372ee0800000000000000
+      internalID: -1286002461581451914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banner_gen8_1x_16
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 173
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3202bde830d1cacd0800000000000000
+      internalID: -2545627788252340189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banner_gen8_1x_17
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 176
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 327f67375574eb780800000000000000
+      internalID: -8665410200679287005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banner_gen8_1x_18
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 173
+        width: 52
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58bf6e74ea9912150800000000000000
+      internalID: 5846122765113293701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banner_gen8_1x_19
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 172
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27e16be65eabf7980800000000000000
+      internalID: -8538900873903464846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banner_gen8_1x_20
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 173
+        width: 46
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 834aa85d2e8e5ca10800000000000000
+      internalID: 1929204076341011512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banner_gen8_1x_21
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 173
+        width: 38
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7539665225ee083e0800000000000000
+      internalID: -2053379393498737833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banner_gen8_1x_22
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 172
+        width: 37
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcb807b874a3af3b0800000000000000
+      internalID: -5478001917786289203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banner_gen8_1x_23
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 172
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8c7b96b50e17f570800000000000000
+      internalID: 8500295831572413579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banner_gen8_1x_24
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 175
+        width: 39
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89c616b1a57501710800000000000000
+      internalID: 1661924307017755800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banner_gen8_1x_25
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 175
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 073affd1fd4779000800000000000000
+      internalID: 42631223113130864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banner_gen8_1x_26
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 174
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b728bee6d7c1c3ab0800000000000000
+      internalID: -5027111758994898309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banner_gen8_1x_27
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 175
+        width: 47
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c65ff9b48cf4e92d0800000000000000
+      internalID: -3270088557743573652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banner_gen8_1x_28
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 175
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a61c1c0d30c7f1c20800000000000000
+      internalID: 3179396217775964522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banner_gen8_1x_29
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 172
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea05f6d2891b7ba30800000000000000
+      internalID: 4231045642093285550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banner_gen8_1x_30
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 133
+        width: 39
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87a0dc81850ebb8f0800000000000000
+      internalID: -523578262680696200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banner_gen8_1x_31
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 133
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a36ebfcafd7d8400800000000000000
+      internalID: 328056864048571299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banner_gen8_1x_32
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 133
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf87a968130393fe0800000000000000
+      internalID: -1208882035702466308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banner_gen8_1x_33
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 133
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e00c8bcf3e16a2980800000000000000
+      internalID: -8562924109666140146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banner_gen8_1x_34
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 133
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ad6d4c2e670afd70800000000000000
+      internalID: 9077576168689724837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banner_gen8_1x_35
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 133
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f57381c91058b6450800000000000000
+      internalID: 6083101963654281055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banner_gen8_1x_36
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 133
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a81d1877e46844560800000000000000
+      internalID: 7297104967817613706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banner_gen8_1x_37
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 134
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d4da1b86bf203800800000000000000
+      internalID: 590024012249879767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banner_gen8_1x_38
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 133
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca63f4e6c86fa2050800000000000000
+      internalID: 5776700555062621868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banner_gen8_1x_39
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 131
+        width: 42
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fde06a1a90e575450800000000000000
+      internalID: 6077429617619504863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banner_gen8_1x_40
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 135
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68799ee3e2cfea990800000000000000
+      internalID: -7372678264404732026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banner_gen8_1x_41
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 131
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 930fd5d434a2e6c00800000000000000
+      internalID: 895699844442484793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banner_gen8_1x_42
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 133
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e05971f0179646c90800000000000000
+      internalID: -7177495971816303346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banner_gen8_1x_43
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 133
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9e0d60bf7fd178f0800000000000000
+      internalID: -544408340421341542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banner_gen8_1x_44
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 133
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a502484fd295aa450800000000000000
+      internalID: 6100786699137458266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banner_gen8_1x_45
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 131
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 961a5fa0f139db2d0800000000000000
+      internalID: -3261288793609232023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banner_gen8_1x_46
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 93
+        width: 39
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc42666d924e33060800000000000000
+      internalID: 6932135119795135695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banner_gen8_1x_47
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 93
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b334d5f966a94e60800000000000000
+      internalID: 7947065991498052537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banner_gen8_1x_48
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 93
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1e7d735ca065e600800000000000000
+      internalID: 496909627145682460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banner_gen8_1x_49
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 93
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51ed7df830b484200800000000000000
+      internalID: 164463865069297173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banner_gen8_1x_50
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 93
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36aaa779e13392ef0800000000000000
+      internalID: -132518507547284893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banner_gen8_1x_51
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 93
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ee14f4dee1ac7690800000000000000
+      internalID: -7603024023761182999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banner_gen8_1x_52
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 93
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79c44fc6175cb5350800000000000000
+      internalID: 6006611618978614423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banner_gen8_1x_53
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 94
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f59d13ff4adc2f760800000000000000
+      internalID: 7490275238810343775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banner_gen8_1x_54
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 93
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e53df8273da9e81f0800000000000000
+      internalID: -1040724230925200546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banner_gen8_1x_55
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 91
+        width: 42
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 895d8812c777af820800000000000000
+      internalID: 2952803880717047192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banner_gen8_1x_56
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 95
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 592bd6e364707c3b0800000000000000
+      internalID: -5492413222278548843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banner_gen8_1x_57
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 91
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54154dedb79770ad0800000000000000
+      internalID: -2736084675677892283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banner_gen8_1x_58
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 93
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f407f62f2bd1fa40800000000000000
+      internalID: 5400338423757604088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banner_gen8_1x_59
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 93
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c4da9e8175b983c0800000000000000
+      internalID: -4356751665175800638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banner_gen8_1x_60
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 93
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e56db6b0efc1857d0800000000000000
+      internalID: -2929559680165620130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banner_gen8_1x_61
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 91
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1d3250cea09282b0800000000000000
+      internalID: -5583741507760669411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banner_gen8_1x_62
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 54
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 264240f35e7924e10800000000000000
+      internalID: 2180472180461282402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banner_gen8_1x_63
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 54
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c0071a4ba13e4d60800000000000000
+      internalID: 7876287410069766339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banner_gen8_1x_64
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 54
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feb50dd9d9637fa90800000000000000
+      internalID: -7280290222035674129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banner_gen8_1x_65
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 54
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa7b746c695eb2f70800000000000000
+      internalID: 9163670302549850031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banner_gen8_1x_66
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 54
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dfcba1c1d3d663e0800000000000000
+      internalID: -2060726881624535084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banner_gen8_1x_67
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 54
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea156eb056af14490800000000000000
+      internalID: -7763648970711739986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banner_gen8_1x_68
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 54
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c21cac7d0b04b7380800000000000000
+      internalID: -8972506704326770388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banner_gen8_1x_69
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 54
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f823e1bfc139b69a0800000000000000
+      internalID: -6238731106110262641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banner_gen8_1x_70
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 54
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c7cbac8867242180800000000000000
+      internalID: -9141138013665114171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banner_gen8_1x_71
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 54
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6fa8c0ff274fc3f0800000000000000
+      internalID: -878405131085238418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banner_gen8_1x_72
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 54
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0af808ce549c52c10800000000000000
+      internalID: 2028248509358051232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banner_gen8_1x_73
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 54
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bebe87953be1b6f50800000000000000
+      internalID: 6875623011760270315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banner_gen8_1x_74
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 53
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4d6632b0e784dd70800000000000000
+      internalID: 9067021348935986511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banner_gen8_1x_75
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 56
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45fb53916d1023370800000000000000
+      internalID: 8300699082254827348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banner_gen8_1x_76
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 54
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9ee751ecebbd5460800000000000000
+      internalID: 7232143202694196890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banner_gen8_1x_77
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 54
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10934bbb6c390eb20800000000000000
+      internalID: 3161689420176046337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banner_gen8_1x_78
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 14
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6ea92fde05fd2870800000000000000
+      internalID: 8659847102725729902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banner_gen8_1x_79
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 14
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3718b01ba56d8a80800000000000000
+      internalID: -8462996339364980934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banner_gen8_1x_80
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 14
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbded9bb6ff93cb50800000000000000
+      internalID: 6612304559968480700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banner_gen8_1x_81
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 14
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b38f52e366144a110800000000000000
+      internalID: 1271212902210467899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banner_gen8_1x_82
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 14
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b2197f3413468230800000000000000
+      internalID: 3640671103018930868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banner_gen8_1x_83
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 14
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b56fc59dce9dd3e80800000000000000
+      internalID: -8197156135462177189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banner_gen8_1x_84
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 14
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae0cd603a076bdd50800000000000000
+      internalID: 6763112558886764778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banner_gen8_1x_85
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 14
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e5f78b07a3889c80800000000000000
+      internalID: -8315751958463384092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banner_gen8_1x_86
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 14
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bcaf73d66dd29e80800000000000000
+      internalID: -8173226940019266379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banner_gen8_1x_87
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 14
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f42e72776b7173b10800000000000000
+      internalID: 1961062235193729615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banner_gen8_1x_88
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 14
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3901a7da33afd0ea0800000000000000
+      internalID: -5904788436552118125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banner_gen8_1x_89
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 14
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33426217b42cacd10800000000000000
+      internalID: 2146741801672123443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banner_gen8_1x_90
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 13
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d44d607b0b235b2f0800000000000000
+      internalID: -957803611180051379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banner_gen8_1x_91
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 16
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2793aa885efbe6270800000000000000
+      internalID: 8245738960323230066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banner_gen8_1x_92
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 14
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a78297bd41f0c2da0800000000000000
+      internalID: -5968378823916836742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banner_gen8_1x_93
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 14
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb2866c897d320730800000000000000
+      internalID: 3963798214295323323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

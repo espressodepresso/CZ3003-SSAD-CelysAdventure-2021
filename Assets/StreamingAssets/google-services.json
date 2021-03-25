@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "848261040312",
+    "firebase_url": "https://ssad-e19c7-default-rtdb.firebaseio.com",
+    "project_id": "ssad-e19c7",
+    "storage_bucket": "ssad-e19c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848261040312:android:6dccf8b188fa45423f0c4d",
+        "android_client_info": {
+          "package_name": "com.company.ssad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "848261040312-c4v9nr5uffr2o8i8eo5hsj7jki8munuk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDN-MBc8S2Q0RhBOZrvleUHbmDVTJF98I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "848261040312-c4v9nr5uffr2o8i8eo5hsj7jki8munuk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

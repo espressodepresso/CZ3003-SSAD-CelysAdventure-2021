@@ -1,0 +1,69 @@
+{
+  "curMap" : "Background_1",
+  "curStage" : "1_easy",
+  "exploreAnsweredQns" : [ {
+    "qnsCorrect" : {
+      "0_question" : 1
+    },
+    "qnsWrong" : {
+      "0_question" : 0
+    },
+    "stageName" : "1_easy"
+  }, {
+    "qnsCorrect" : {
+      "0_question" : 1
+    },
+    "qnsWrong" : {
+      "0_question" : 1
+    },
+    "stageName" : "1_medium"
+  }, {
+    "qnsCorrect" : {
+      "0_question" : 20,
+      "1_question" : 25,
+      "2_question" : 17,
+      "3_question" : 30,
+      "4_question" : 15
+    },
+    "qnsWrong" : {
+      "0_question" : 8,
+      "1_question" : 5,
+      "2_question" : 2,
+      "3_question" : 47,
+      "4_question" : 8
+    },
+    "stageName" : "1_hard"
+  } ],
+  "nextMap" : "Background_Gym",
+  "noPokemon" : 4,
+  "playerName" : "TestPlayer",
+  "pokemonHeld" : [ "Catto", "Catto", "Catto", "Catto" ],
+  "quizAnsweredQns" : [ {
+    "qnsCorrect" : {
+      "0_question" : 1
+    },
+    "qnsWrong" : {
+      "0_question" : 0
+    },
+    "stageName" : "1_easy"
+  }, {
+    "qnsCorrect" : {
+      "0_question" : 1
+    },
+    "qnsWrong" : {
+      "0_question" : 1
+    },
+    "stageName" : "1_medium"
+  }, {
+    "qnsCorrect" : {
+      "0_question" : 1
+    },
+    "qnsWrong" : {
+      "0_question" : 1
+    },
+    "stageName" : "1_hard"
+  } ],
+  "quizCat" : "Cat Cat",
+  "totalNoAttempted" : 123,
+  "totalNoCorrect" : 100
+}

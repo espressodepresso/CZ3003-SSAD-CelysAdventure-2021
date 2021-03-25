@@ -1,0 +1,29 @@
+{
+  "mapscoordslist": [
+    {
+      "mapName": "Background_1",
+      "entry": [ 0.5, -0.1 ],
+      "exit": [ 38, 46 ]
+    },
+    {
+      "mapName": "Background_2",
+      "entry": [ 100.5, -0.1 ],
+      "exit": [ 38, 46 ]
+    },
+    {
+      "mapName": "Background_3",
+      "entry": [ 200.5, -3.1 ],
+      "exit": [ 38, 46 ]
+    },
+    {
+      "mapName": "Background_4",
+      "entry": [ 300.5, -5.1 ],
+      "exit": [ 38, 46 ]
+    },
+    {
+      "mapName": "Background_Gym",
+      "entry": [ 504.5, -3.1 ],
+      "exit": [ 38, 46 ]
+    }
+  ]
+}

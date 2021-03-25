@@ -1,0 +1,33 @@
+{
+    "catList":[
+        {
+            "catName":"Ket",
+            "spriteFilename":"cat"
+        },
+        {
+            "catName":"Cely",
+            "spriteFilename":"cat1"
+        },
+        {
+            "catName":"Catto",
+            "spriteFilename":"cat2"
+        },
+        {
+            "catName":"Cat Cat",
+            "spriteFilename":"cat3"
+        },
+        {
+            "catName":"Kitty",
+            "spriteFilename":"cat4"
+        },
+        {
+            "catName":"Kitty Cat",
+            "spriteFilename":"cat5"
+        },
+        {
+            "catName":"Meow",
+            "spriteFilename":"cat6"
+        }
+        ]
+    
+}
