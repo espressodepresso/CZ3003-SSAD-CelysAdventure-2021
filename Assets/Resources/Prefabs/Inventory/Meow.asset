@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f7a499b2ad5624820ab21d42e50f39ee, type: 3}
+  m_Name: Meow
+  m_EditorClassIdentifier: 
+  itemName: Meow
+  icon: {fileID: 21300000, guid: 81c7671f5c7d53943bb0e70f5061ec21, type: 3}
+  description: 

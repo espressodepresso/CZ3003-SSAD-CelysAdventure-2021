@@ -20,4 +20,16 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/CustomStage.unity
     guid: c7961ee1edd16524089c392dd13e4a93
+  - enabled: 1
+    path: Assets/Scenes/MasteryReport.unity
+    guid: b7b03574e6ed73f41aa152866d2999d5
+  - enabled: 1
+    path: Assets/Scenes/Leaderboard.unity
+    guid: 9cbf8744c32e2b648a71cc13fcd5f878
+  - enabled: 1
+    path: Assets/Scenes/TeacherScene.unity
+    guid: 9baa695e607ce9c409cd383e8aca07be
+  - enabled: 1
+    path: Assets/Scenes/TeacherCustomStage.unity
+    guid: 1d2817764361a5543aa7204d9844c441
   m_configObjects: {}

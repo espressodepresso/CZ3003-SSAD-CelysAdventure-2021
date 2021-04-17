@@ -5,7 +5,7 @@ using System.IO;
 using Newtonsoft.Json;
 
 [System.Serializable]
-public class PlayerInfo
+public class PlayerInfo 
 {
 
     public string playerName;
@@ -20,18 +20,39 @@ public class PlayerInfo
     public int totalNoCorrect;
     public int totalNoAttempted;
 
+    public PlayerInfo()
+    {
+
+    }
+    public PlayerInfo(string name, string curmap, string nextmap, string curstage, string quizcat, int nopokemon, int totalcorrect, int totalattempt)
+    {
+        playerName = name;
+        curMap = curmap;
+        nextMap = nextmap;
+        curStage = curstage;
+        quizCat = quizcat;
+        noPokemon = nopokemon;
+        pokemonHeld = new List<string>(new string[] { "Cely" });
+        AnsweredQns temp = new AnsweredQns("1_easy");
+        exploreAnsweredQns = new AnsweredQns[] {temp};
+        quizAnsweredQns = new AnsweredQns[] { temp };
+        totalNoCorrect = totalcorrect;
+        totalNoAttempted = totalattempt;
+
+
+    }
+
     public static PlayerInfo CreateFromJSON(string jsonString)
     {
         return JsonConvert.DeserializeObject<PlayerInfo>(jsonString);
     }
-
     public void SaveToJSON()
     {
         string jsonData = JsonConvert.SerializeObject(this);
         //Debug.Log(Application.persistentDataPath);
         //string jsonSavePath = @"C:\Users\myath\ssad\Assets\Scripts\Data\PlayerData.json";
-        string jsonSavePath = @"D:\Unity Projects\SSAD_Project_Xcellent\Assets\Scripts\Data\PlayerData.json";
-        //string jsonSavePath = @"C:\Users\limwa\Desktop\Y3S2\CZ3003 - SSAD\Collab\SSAD_Project_Xcellent\Assets\Scripts\Data\PlayerData.json";
+        //string jsonSavePath = @"D:\Unity Projects\SSAD_Project_Xcellent\Assets\Scripts\Data\PlayerData.json";
+        string jsonSavePath = @"C:\Users\Wai Leong\Desktop\Y3S2\CZ3003 - SSAD\asdasdasdasdasdas\SSAD_Project_Xcellent\SSAD-Project-Xcellent\SSAD_Project_Xcellent\Assets\Scripts\Unit Tests\Player_Test_Data.json";
         File.WriteAllText( jsonSavePath, jsonData );
     }
 
@@ -42,6 +63,11 @@ public class PlayerInfo
         this.noPokemon=1;
     }
 
+    public void addCat(string cat)
+    {
+        this.pokemonHeld.Add(cat);
+        this.noPokemon += 1;
+    }
     public void updateQuizCat(string newCat)
     {
         this.quizCat = newCat;

@@ -3,17 +3,18 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
+//! A class that handles pokemon buttons functions for custom stage
+
 public class CustomStagePokemonButton : MonoBehaviour
 {
-    public GameObject customStageUIManager;
-    public GameObject selectedGlow;
-    private bool selectedState;
-    private GameObject[] backgrounds;
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
+    public GameObject customStageUIManager; /** A unity gameObject that contains the script to customStageUIManager */
+    public GameObject selectedGlow; /** A unity gameObject that contains the sprite of a selected button */
+    private bool selectedState; /** The selection state of this pokemon */
+    private GameObject[] backgrounds; /** An array of gameObject that contains all the backgrounds */
+    
+    /** 
+     * this method handles OnClick for pokemon button
+     */
     public void choosePokemon()
     {
         customStageUIManager.GetComponent<CustomStageUIManager>().SelectPokemon(this.name);
@@ -22,6 +23,9 @@ public class CustomStagePokemonButton : MonoBehaviour
        
         
     }
+    /**
+     * this method handles OnClick for background button
+     */
     public void chooseBackground()
     {
         customStageUIManager.GetComponent<CustomStageUIManager>().SelectBackground(this.name);

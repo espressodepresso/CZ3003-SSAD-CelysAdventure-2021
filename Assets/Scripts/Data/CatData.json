@@ -27,6 +27,34 @@
         {
             "catName":"Meow",
             "spriteFilename":"cat6"
+        },
+        {
+            "catName":"Mr Catto",
+            "spriteFilename":"cat7"
+        },
+        {
+            "catName":"Mr Meowgi",
+            "spriteFilename":"cat8"
+        },
+        {
+            "catName":"Ms Kitty",
+            "spriteFilename":"cat9"
+        },
+        {
+            "catName":"Catty Kit",
+            "spriteFilename":"cat10"
+        },
+        {
+            "catName":"Mrs Ket",
+            "spriteFilename":"cat11"
+        },
+        {
+            "catName":"Calico",
+            "spriteFilename":"cat12"
+        },
+        {
+            "catName":"Purrfect",
+            "spriteFilename":"cat13"
         }
         ]
     

@@ -24,14 +24,15 @@ public class Replace : MonoBehaviour
         foreach (Transform child in ReplacePanel.transform)
         {
             ReplaceSlots slot = child.GetComponent<ReplaceSlots>();
+
             if (index < catList.Count)
             {
-                var assetPath = "Assets/Prefabs/Inventory/" + catList[index] + ".asset";
-                slot.item = (Pokemon)AssetDatabase.LoadAssetAtPath(assetPath, typeof(Pokemon));
+                var assetPath = "Prefabs/Inventory/" + catList[index];
+                slot.item = Resources.Load<Pokemon>(assetPath);
             }
             else
             {
-                slot.item = (Pokemon)AssetDatabase.LoadAssetAtPath("Assets/Prefabs/Inventory/No Cat.asset", typeof(Pokemon)); ;
+                slot.item = (Pokemon)Resources.Load("Prefabs/Inventory/No Cat"); ;
             }
             slot.updateSlot();
             index++;
@@ -43,7 +44,7 @@ public class Replace : MonoBehaviour
         var catName = playerDataManager.GetComponent<DataManager>().getQuizCat();
         Debug.Log(catName);
         var curCatSlot = GameObject.FindGameObjectWithTag("CurrentCat");
-        curCatSlot.GetComponent<ReplaceSlots>().item = (Pokemon)AssetDatabase.LoadAssetAtPath("Assets/Prefabs/Inventory/" + catName + ".asset", typeof(Pokemon));
+        curCatSlot.GetComponent<ReplaceSlots>().item = Resources.Load<Pokemon>("Prefabs/Inventory/" + catName);
         curCatSlot.GetComponent<ReplaceSlots>().updateSlot();
     }
 

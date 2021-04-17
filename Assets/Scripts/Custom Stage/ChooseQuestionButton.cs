@@ -2,12 +2,17 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
-
+/** 
+ * A class that handles choosing a question for custom stage creation
+ */
 public class ChooseQuestionButton : MonoBehaviour
 {
-    private GameObject questionManager;
-    private bool selectedState = false;
+    private GameObject questionManager; /** A unity gameObject that contains script to questionManager */
+    private bool selectedState = false; /** A state of whether this question is selected or not */
 
+    /** 
+     * this method displays the selected state of a question when UI reloads 
+     */
     public void StartButton()
     {
         questionManager = GameObject.Find("QuestionsManager");
@@ -20,7 +25,9 @@ public class ChooseQuestionButton : MonoBehaviour
         }
 
     }
-
+    /**
+     * this method handles toggling selection state of this question and adds or removes from questionManager accordingly.
+     */
     public void clickChooseQuestion()
     {
         
@@ -35,12 +42,6 @@ public class ChooseQuestionButton : MonoBehaviour
             questionManager.GetComponent<CustomStageChooseQuestions>().removeFromChosenQuestionsList(this.name);
             GetComponent<Image>().color = Color.white;
         }
-        
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
         
     }
 }

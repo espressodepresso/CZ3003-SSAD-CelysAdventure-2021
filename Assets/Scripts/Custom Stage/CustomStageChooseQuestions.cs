@@ -7,22 +7,23 @@ using Firebase.Auth;
 using Firebase.Database;
 using TMPro;
 
+//! A class that handles choosing Questions - Questions Manager
+
 public class CustomStageChooseQuestions : MonoBehaviour
 {
-    private GameObject firebasesManager;
-    public DatabaseReference DBreference;
-   
+    private GameObject firebasesManager; /** A firebase class that contains the script to FirebaseManager */
+    public DatabaseReference DBreference; /** A firebase class that contains the reference to the database */
 
-    public GameObject questionPrefab;
-    public GameObject container;
-    
 
-    public List<QuestionsAndAnswers> questionsList = new List<QuestionsAndAnswers>();
-    private string[] levels = new string[] { "1_easy", "1_medium", "1_hard", "2_easy", "2_medium", "2_hard", "3_easy", "3_medium", "3_hard", "4_easy", "4_medium", "4_hard", "5_easy", "5_medium", "5_hard" };
-    private string currentLevel;
+    public Transform entryContainer; /** A unity Transform object that contains container to display all the questions */
+    public GameObject entryTemplate; /** A unity Gameobject that contains container to dispaly one question */
 
-    private List<string> chosenQuestionsList = new List<string>();
-    private List<GameObject> InstantiatedQuestions = new List<GameObject>();
+    public List<QuestionsAndAnswers> questionsList = new List<QuestionsAndAnswers>(); /** A list of questions to display */
+    private string[] levels = new string[] { "1_easy", "1_medium", "1_hard", "2_easy", "2_medium", "2_hard", "3_easy", "3_medium", "3_hard", "4_easy", "4_medium", "4_hard", "5_easy", "5_medium", "5_hard" }; /** the levels in the game */
+    private string currentLevel; /** the current level chosen by user */
+
+    private List<string> chosenQuestionsList = new List<string>(); /** A list of chosen questions */
+    private List<GameObject> InstantiatedQuestions = new List<GameObject>(); /** A list of questions Game Objects */
 
   
 
@@ -35,15 +36,26 @@ public class CustomStageChooseQuestions : MonoBehaviour
 
 
     }
+    /**
+     * this method returns the chosen question list
+     */
     public List<string> getChosenQuestionsList()
     {
         return chosenQuestionsList;
     }
+    /** 
+     * this method handles adding to the chosen question list
+     * @param questionId - questionId of question to be added
+     */
     public void addToChosenQuestionsList(string questionId)
     {
         chosenQuestionsList.Add(questionId);
        
     }
+    /** 
+     * this method handles removing from the chosen question list
+     * @param questionId - questionId of question to be removed
+     */
     public void removeFromChosenQuestionsList(string questionId)
     {
         string name = questionId;
@@ -53,6 +65,10 @@ public class CustomStageChooseQuestions : MonoBehaviour
         }
        
     }
+    /** 
+     * this method handles OnChange for the level dropdown index
+     * @param index - current index of dropdown chosen by user
+     */
     public void Dropdown_IndexChanged(int index)
     {
         questionsList.Clear();
@@ -62,14 +78,14 @@ public class CustomStageChooseQuestions : MonoBehaviour
             Destroy(instantiatedQuestion);
         }
         StartCoroutine(RequestForQuestions(levels[index], "gh123"));
-        
-
-
     }
+    /**
+     * this method handles getting questions from the database for a particular level
+     * @param levelRequested - the level chosen 
+     * @param quizId - can put any value
+     */
     private IEnumerator RequestForQuestions(string levelRequested, string quizId)
     {
-
-
         var DBTask = DBreference.Child("questions").Child(levelRequested).GetValueAsync();
 
         yield return new WaitUntil(predicate: () => DBTask.IsCompleted);
@@ -114,7 +130,7 @@ public class CustomStageChooseQuestions : MonoBehaviour
                     correctIndex = 4;
                 }
                 QuestionsAndAnswers tempItem = new QuestionsAndAnswers(question, choices, correctIndex);
-                tempItem.id = levelRequested+ "_"+ dbCount.ToString();
+                tempItem.id = levelRequested+ "_"+ dbCount.ToString()+"_question";
                 dbCount++;
 
         
@@ -128,7 +144,7 @@ public class CustomStageChooseQuestions : MonoBehaviour
             {
                 int y_change = count * (250);
               
-                GameObject tempObject = Instantiate(questionPrefab, new Vector3(container.transform.position.x, container.transform.position.y + 1150-y_change), Quaternion.identity, container.transform);
+                GameObject tempObject = Instantiate(entryTemplate, entryContainer);
                 InstantiatedQuestions.Add(tempObject);
                 tempObject.name = question.id;
                 tempObject.transform.GetChild(0).gameObject.GetComponent<TextMeshProUGUI>().text = question.Question;

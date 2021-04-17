@@ -11,6 +11,11 @@ public class DataUnitTest : MonoBehaviour
     public void Start(){
         playerDataTest = PlayerInfo.CreateFromJSON(playerTestJson.text);
         testLoading();
+        testResetCats();
+        testupdateQuizCat();
+        testAddCat();
+        testUpdateQuiz();
+        testUpdateExplore();
     }
 
     public void testLoading(){
@@ -55,5 +60,81 @@ public class DataUnitTest : MonoBehaviour
         } else{ print("exploreAnsweredQns not loaded"); }
     }
     
-    
+    public void testResetCats()
+    {
+        this.playerDataTest.resetCats();
+        if (playerDataTest.noPokemon==1 && playerDataTest.pokemonHeld[0]=="Cely")
+        {
+            print("ResetCat works");
+        }else {print("ResetCat Failed");}
+    }
+    public void testupdateQuizCat()
+    {
+        this.playerDataTest.updateQuizCat("Cely");
+        if (playerDataTest.quizCat == "Cely"){
+            print("UpdateQuizCat works");
+        }else {print("UpdateQuizCat Failed");}
+    }
+
+    public void testAddCat()
+    {
+        playerDataTest.addCat("Cely");
+        if (playerDataTest.noPokemon == 2 && playerDataTest.pokemonHeld[1]=="Cely")
+        {
+            print("Add cat works");
+        }
+        else {print("AddCat Failed");}
+    }
+
+    public void testUpdateQuiz()
+    {
+        bool flag = true;
+        playerDataTest.updateQuiz("1_easy","2_question",true);
+        if (playerDataTest.quizAnsweredQns[0].qnsCorrect.ContainsKey("2_question")){
+            if (playerDataTest.quizAnsweredQns[0].qnsCorrect["2_question"] != 1)
+            {
+                flag=false;
+            }
+        }
+        else {flag=false;}
+        playerDataTest.updateQuiz("1_easy","2_question",false);
+        if (playerDataTest.quizAnsweredQns[0].qnsWrong.ContainsKey("2_question")){
+            if (playerDataTest.quizAnsweredQns[0].qnsWrong["2_question"] != 1)
+            {
+                flag=false;
+            }
+        }
+        else {flag=false;}
+
+        if (flag==true){
+            print("UpdateQuiz works");
+        } else {print("UpdateQuiz Failed");}
+    }
+
+    public void testUpdateExplore()
+    {
+        bool flag = true;
+        playerDataTest.updateExplore("1_easy","2_question",true);
+        if (playerDataTest.exploreAnsweredQns[0].qnsCorrect.ContainsKey("2_question")){
+            if (playerDataTest.exploreAnsweredQns[0].qnsCorrect["2_question"] != 1)
+            {
+                flag=false;
+            }
+        }
+        else {flag=false;}
+        playerDataTest.updateExplore("1_easy","2_question",false);
+        if (playerDataTest.exploreAnsweredQns[0].qnsWrong.ContainsKey("2_question")){
+            if (playerDataTest.exploreAnsweredQns[0].qnsWrong["2_question"] != 1)
+            {
+                flag=false;
+            }
+        }
+        else {flag=false;}
+
+        if (flag==true){
+            print("UpdateExplore works");
+        } else {print("UpdateExplore Failed");}
+    }
+
+
 }

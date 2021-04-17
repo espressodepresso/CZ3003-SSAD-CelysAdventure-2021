@@ -7,23 +7,23 @@
     },
     {
       "mapName": "Background_2",
-      "entry": [ 100.5, -0.1 ],
-      "exit": [ 38, 46 ]
+      "entry": [ 99.5, 2.1 ],
+      "exit": [ 122, 33 ]
     },
     {
       "mapName": "Background_3",
-      "entry": [ 200.5, -3.1 ],
-      "exit": [ 38, 46 ]
+      "entry": [ 192.5, -3.1 ],
+      "exit": [ 204, 45 ]
     },
     {
       "mapName": "Background_4",
-      "entry": [ 300.5, -5.1 ],
-      "exit": [ 38, 46 ]
+      "entry": [ 289.5, -5.1 ],
+      "exit": [ 296, 47 ]
     },
     {
       "mapName": "Background_Gym",
       "entry": [ 504.5, -3.1 ],
-      "exit": [ 38, 46 ]
+      "exit": [ 504, 10 ]
     }
   ]
 }

@@ -10,6 +10,7 @@ public class GameController : MonoBehaviour
     [SerializeField] Inventory inventorySystem; 
     [SerializeField] Replace replaceSystem; 
     [SerializeField] QuizManager quizSystem;
+    [SerializeField] GameObject buttonCanvas;
     [SerializeField] Camera overworldCamera;
     [SerializeField] Camera inventoryCamera;
     [SerializeField] Camera replaceCamera;
@@ -47,6 +48,7 @@ public class GameController : MonoBehaviour
     {
         state = GameState.Quiz;
         quizCanvas.SetActive(true);
+        buttonCanvas.SetActive(false);
         overworldCamera.gameObject.SetActive(false);
         quizCamera.gameObject.SetActive(true);
     }
@@ -54,33 +56,43 @@ public class GameController : MonoBehaviour
     {
         state = GameState.Explore;
         quizCanvas.SetActive(false);
+        buttonCanvas.SetActive(true);
         quizCamera.gameObject.SetActive(false);
-        overworldCamera.gameObject.SetActive(true);  
+        overworldCamera.gameObject.SetActive(true);
     }
     void OnReplace()
     {
         state = GameState.Replace;
+        buttonCanvas.SetActive(false);
         quizCanvas.SetActive(false);
+        replaceSystem.gameObject.SetActive(true);
         quizCamera.gameObject.SetActive(false);
         replaceCamera.gameObject.SetActive(true);
     }
     void OnReplaceComplete()
     {
         state = GameState.Explore;
+        buttonCanvas.SetActive(true);
         replaceCamera.gameObject.SetActive(false);
         overworldCamera.gameObject.SetActive(true);
+        replaceSystem.gameObject.SetActive(false);
     }
     void OpenInventory()
     {
         state = GameState.Inventory;
+        buttonCanvas.SetActive(false);
         overworldCamera.gameObject.SetActive(false);
+        inventorySystem.gameObject.SetActive(true);
+        quizCanvas.SetActive(false);
         inventoryCamera.gameObject.SetActive(true);
     }
     void CloseInventory()
     {
         state = GameState.Explore;
+        buttonCanvas.SetActive(true);
         inventoryCamera.gameObject.SetActive(false);
         overworldCamera.gameObject.SetActive(true);
+        
     }
 
     private void Update()
@@ -99,7 +111,7 @@ public class GameController : MonoBehaviour
         }
         else if (state == GameState.Quiz)
         {
-            quizSystem.HandleUpdate(1);
+            quizSystem.HandleUpdate();
         }
         else if (state == GameState.Replace)
         {

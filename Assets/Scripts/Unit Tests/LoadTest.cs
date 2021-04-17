@@ -35,7 +35,7 @@ public class LoadTest : MonoBehaviour
 
     private IEnumerator LoadUserDataTesting(System.Action<string> callback)
     {
-        Debug.Log("Calculation for 1000 iteration is starting");
+        Debug.Log("Calculation Start");
         var watch = System.Diagnostics.Stopwatch.StartNew();
         for (int i=0; i<1000;i++)
         {
@@ -44,6 +44,7 @@ public class LoadTest : MonoBehaviour
             DBreference.Child("users").Child(firebasesManager.GetComponent<FirebaseManager>().userID).GetValueAsync();
         }
         watch.Stop();
+        Debug.Log("Calculation End");
         Debug.Log("Time taken for 1000 iteration: " +watch.ElapsedMilliseconds +  "ms");
 
         var DBTask = DBreference.Child("users").Child(firebasesManager.GetComponent<FirebaseManager>().userID).GetValueAsync();

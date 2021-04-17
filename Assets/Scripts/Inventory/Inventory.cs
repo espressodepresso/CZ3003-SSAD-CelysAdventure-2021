@@ -25,12 +25,12 @@ public class Inventory : MonoBehaviour
             inventorySlotController slot = child.GetComponent<inventorySlotController>();
             if (index < catList.Count)
             {
-                var assetPath = "Assets/Prefabs/Inventory/" + catList[index] + ".asset";
-                slot.item = (Pokemon)AssetDatabase.LoadAssetAtPath(assetPath, typeof(Pokemon));
+                var assetPath = "Prefabs/Inventory/" + catList[index];
+                slot.item = Resources.Load<Pokemon>(assetPath);
             }
             else
             {
-                slot.item = (Pokemon)AssetDatabase.LoadAssetAtPath("Assets/Prefabs/Inventory/No Cat.asset", typeof(Pokemon)); ;
+                slot.item = (Pokemon)Resources.Load("Prefabs/Inventory/No Cat"); ;
             }
             slot.updateInfo();
             index++;
@@ -63,7 +63,13 @@ public class Inventory : MonoBehaviour
         updatePanelSlots();
         if (Input.GetKeyDown(KeyCode.I))
         {
-            OnCloseInventory();
+            CloseInventory();
         }
+    }
+
+    public void CloseInventory()
+    {
+        Debug.Log("click");
+        OnCloseInventory();
     }
 }

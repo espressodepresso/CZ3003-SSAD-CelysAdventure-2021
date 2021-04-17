@@ -8,6 +8,14 @@ TagManager:
   - DataManager
   - background
   - CurrentCat
+  - QuestionBreakdown
+  - MasteryReportUI
+  - TeacherUI
+  - Leaderboard
+  - MasteryReport
+  - QuizManager
+  - CustomStage
+  - PlayerController
   layers:
   - Default
   - TransparentFX

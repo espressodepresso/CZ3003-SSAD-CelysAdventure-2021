@@ -9,6 +9,9 @@ public class CorrectCheck : MonoBehaviour
     public bool isCorrect = false;
 
     public QuizManager quizManager;
+    /**
+     * Changes button colour of option to green or red depending on if the option on the button is right or wrong.
+     */
     public void AnswerButtonClicked()
     {
         if (isCorrect) {
@@ -23,35 +26,36 @@ public class CorrectCheck : MonoBehaviour
         }
     }
 
-    //void ChangeColorGreen()
-    //{
-    //    Image img = this.gameObject.GetComponent<Image>();
-    //    img.color = UnityEngine.Color.green;
-    //    Debug.Log("Color changed to green");
-    //}
-    
+    /**
+     * Changes button colour of option to white.
+     */
     void ChangeColorWhite()
     {
         Image img = this.gameObject.GetComponent<Image>();
         img.color = UnityEngine.Color.white;
         //Debug.Log("Color changed to white");
     }
+    /**
+     * Changes button colour of option to green.
+     */
     IEnumerator ChangeColorGreen()
     {
         Image img = this.gameObject.GetComponent<Image>();
         img.color = UnityEngine.Color.green;
-        Debug.Log("Changed to green");
+        //Debug.Log("Changed to green");
         yield return new WaitForSecondsRealtime(1);
 
         this.ChangeColorWhite();
         quizManager.Correct();
     }
-
+    /**
+     * Changes button colour of option to red.
+     */
     IEnumerator ChangeColorRed()
     {
         Image img = this.gameObject.GetComponent<Image>();
         img.color = UnityEngine.Color.red;
-        Debug.Log("Changed to red");
+        //Debug.Log("Changed to red");
         yield return new WaitForSecondsRealtime(0.5f);
 
         this.ChangeColorWhite();

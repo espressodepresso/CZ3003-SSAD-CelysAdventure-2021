@@ -28,12 +28,21 @@ public class CameraFollow : MonoBehaviour
 
         
     }
+    /**
+     * Change boundaries of camara.
+     * 
+     * @param bounds new bounds
+     */
     public void ChangeBounds(BoxCollider2D bounds)
     {
         this.mapBounds = bounds;
         CalculateBounds(this.mapBounds);
     }
-
+    /**
+     * Calculate new boundaries of camera.
+     * 
+     * @param mapBounds bounds of map
+     */
     void CalculateBounds(BoxCollider2D mapBounds)
     {
         xMin = mapBounds.bounds.min.x;
